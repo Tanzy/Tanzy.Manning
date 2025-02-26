@@ -3,45 +3,39 @@
 {
 	"name": "Python 3",
 	// Or use a Dockerfile or Docker Compose file. More info: https://containers.dev/guide/dockerfile
-	"image": "ghcr.io/prulloac/devcontainer-templates/python_typescript:1.0.0",
-	"postCreateCommand": "bash .devcontainer/post-create.sh",
+	"image": "mcr.microsoft.com/devcontainers/base:bullseye",
+	// Features to add to the dev container. More info: https://containers.dev/features.
+	"features": {
+		"ghcr.io/devcontainers/features/python:1": {
+			"version": "3.12",
+			"installJupyterlab": false
+		}
+	},
+	// Configure tool-specific properties.
 	"customizations": {
+		// Configure properties specific to VS Code.
 		"vscode": {
-			"settings": {},
+			"settings": {
+				"editor.formatOnSave": true
+			},
 			"extensions": [
-				"gruntfuggly.todo-tree",
-				"ms-azuretools.vscode-docker",
-				"samuelcolvin.jinjahtml",
-				"mhutchie.git-graph",
+				"streetsidesoftware.code-spell-checker",
 				"ms-python.python",
 				"ms-python.vscode-pylance",
-				"ryanluker.vscode-coverage-gutters",
-				"meezilla.json",
-				"emmanuelbeziat.vscode-great-icons",
-				"dongido.sync-env",
-				"yzhang.markdown-all-in-one",
-				"github.vscode-github-actions",
-				"foxundermoon.shell-format",
-				"shardulm94.trailing-spaces",
-				"github.vscode-pull-request-github",
-				"github.copilot",
-				"github.copilot-chat"
+				"ms-python.debugpy",
+				"GitHub.copilot",
+				"GitHub.copilot-chat",
+				"aaron-bond.better-comments",
+				"PKief.material-icon-theme",
+				"piotrpalarz.vscode-gitignore-generator",
+				"IronGeek.vscode-env",
+				"GitHub.vscode-pull-request-github",
+				"esbenp.prettier-vscode"
 			]
 		}
-	}
-
-	// Features to add to the dev container. More info: https://containers.dev/features.
-	// "features": {},
-
-	// Use 'forwardPorts' to make a list of ports inside the container available locally.
-	// "forwardPorts": [],
-
+	},
 	// Use 'postCreateCommand' to run commands after the container is created.
-	// "postCreateCommand": "pip3 install --user -r requirements.txt",
-
-	// Configure tool-specific properties.
-	// "customizations": {},
-
+	"postCreateCommand": "pip3 install -r requirements.txt"
 	// Uncomment to connect as root instead. More info: https://aka.ms/dev-containers-non-root.
 	// "remoteUser": "root"
 }
