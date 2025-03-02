@@ -1,160 +1,161 @@
 {
-    "id": "product-1187",
-    "success": true,
-    "dateCreated": "2024-05-21T19:59:05+0000",
-    "lastUpdated": "2024-05-21T20:45:04.000Z",
-    "product": {
-        "id": 1187,
-        "title": "Hugo in Action",
-        "coverPath": "https://drek4537l1klr.cloudfront.net/jain/Figures/cover.jpg",
-        "link": "https://livebook.manning.com/book/hugo-in-action"
-    },
-    "scrapbookItems": [
+  "id": "product-1187",
+  "success": true,
+  "dateCreated": "2024-05-21T19:59:05+0000",
+  "lastUpdated": "2024-05-21T20:45:04.000Z",
+  "product": {
+    "id": 1187,
+    "title": "Hugo in Action",
+    "authors": "Atishay Jain",
+    "coverPath": "https://drek4537l1klr.cloudfront.net/jain/Figures/cover.jpg",
+    "link": "https://livebook.manning.com/book/hugo-in-action"
+  },
+  "scrapbookItems": [
+    {
+      "id": 1719141,
+      "type": "mixed",
+      "dateCreated": "2024-05-21T19:59:05+0000",
+      "lastUpdated": "2024-05-21T19:59:05.000Z",
+      "text": "<p><a id=\"pgfId-1015605\" href=\"/book/hugo-in-action/chapter-4/\"></a><a id=\"marker-1015595\" href=\"/book/hugo-in-action/chapter-4/\"></a><a id=\"marker-1015597\" href=\"/book/hugo-in-action/chapter-4/\"></a><a id=\"marker-1015599\" href=\"/book/hugo-in-action/chapter-4/\"></a><i>Leaf bundles</i> are a collection of textual and nontextual elements needed to independently represent the core contents of a single web page. The folder for leaf bundles contains the markup, the metadata, and the resources (images, PDF files, etc.) specific to the page. These may also include page-specific CSS and JS files.</p>",
+      "title": "4.3.1 Leaf bundles",
+      "link": "https://livebook.manning.com/book/hugo-in-action/chapter-4/425ecfd64ac9e070a1bd7400358924e8",
+      "bookShortName": "jain",
+      "bookElementShortName": "chapter-4",
+      "meapVersion": 0,
+      "bookElementOrdinal": 10,
+      "contentItemID": "100",
+      "contentHash": "425ecfd64ac9e070a1bd7400358924e8",
+      "highlights": [
         {
-            "id": 1719141,
-            "type": "mixed",
-            "dateCreated": "2024-05-21T19:59:05+0000",
-            "lastUpdated": "2024-05-21T19:59:05.000Z",
-            "text": "<p><a id=\"pgfId-1015605\" href=\"/book/hugo-in-action/chapter-4/\"></a><a id=\"marker-1015595\" href=\"/book/hugo-in-action/chapter-4/\"></a><a id=\"marker-1015597\" href=\"/book/hugo-in-action/chapter-4/\"></a><a id=\"marker-1015599\" href=\"/book/hugo-in-action/chapter-4/\"></a><i>Leaf bundles</i> are a collection of textual and nontextual elements needed to independently represent the core contents of a single web page. The folder for leaf bundles contains the markup, the metadata, and the resources (images, PDF files, etc.) specific to the page. These may also include page-specific CSS and JS files.</p>",
-            "title": "4.3.1 Leaf bundles",
-            "link": "https://livebook.manning.com/book/hugo-in-action/chapter-4/425ecfd64ac9e070a1bd7400358924e8",
-            "bookShortName": "jain",
-            "bookElementShortName": "chapter-4",
-            "meapVersion": 0,
-            "bookElementOrdinal": 10,
-            "contentItemID": "100",
-            "contentHash": "425ecfd64ac9e070a1bd7400358924e8",
-            "highlights": [
-                {
-                    "color": "yellow",
-                    "text": "Leaf bundles are a collection of textual and nontextual elements needed to independently represent the core contents of a single web page. The folder for leaf bundles contains the markup, the metadata, and the resources (images, PDF files, etc.) specific to the page. These may also include page-specific CSS and JS files.",
-                    "offset": 0
-                },
-                {
-                    "color": "yellow",
-                    "text": "Leaf bundles are a collection of textual and nontextual elements needed to independently represent the core contents of a single web page. The folder for leaf bundles contains the markup, the metadata, and the resources (images, PDF files, etc.) specific to the page. These may also include page-specific CSS and JS files.",
-                    "offset": 0
-                },
-                {
-                    "color": "yellow",
-                    "text": "Leaf bundles are a collection of textual and nontextual elements needed to independently represent the core contents of a single web page. The folder for leaf bundles contains the markup, the metadata, and the resources (images, PDF files, etc.) specific to the page. These may also include page-specific CSS and JS files.",
-                    "offset": 0
-                }
-            ],
-            "html": "<p><a id=\"pgfId-1015605\" href=\"/book/hugo-in-action/chapter-4/\"></a><a id=\"marker-1015595\" href=\"/book/hugo-in-action/chapter-4/\"></a><a id=\"marker-1015597\" href=\"/book/hugo-in-action/chapter-4/\"></a><a id=\"marker-1015599\" href=\"/book/hugo-in-action/chapter-4/\"></a><i><span class=\"highlighted-text highlight-color-yellow\"><span class=\"highlighted-text highlight-color-yellow\"><span class=\"highlighted-text highlight-color-yellow\">Leaf bundles</span></span></span></i><span class=\"highlighted-text highlight-color-yellow\"><span class=\"highlighted-text highlight-color-yellow\"><span class=\"highlighted-text highlight-color-yellow\"> are a collection of textual and nontextual elements needed to independently represent the core contents of a single web page. The folder for leaf bundles contains the markup, the metadata, and the resources (images, PDF files, etc.) specific to the page. These may also include page-specific CSS and JS files.</span></span></span></p>"
+          "color": "yellow",
+          "text": "Leaf bundles are a collection of textual and nontextual elements needed to independently represent the core contents of a single web page. The folder for leaf bundles contains the markup, the metadata, and the resources (images, PDF files, etc.) specific to the page. These may also include page-specific CSS and JS files.",
+          "offset": 0
         },
         {
-            "id": 1719141,
-            "type": "mixed",
-            "dateCreated": "2024-05-21T19:59:05+0000",
-            "lastUpdated": "2024-05-21T19:59:05.000Z",
-            "text": "<p><a id=\"pgfId-1015614\" href=\"/book/hugo-in-action/chapter-4/\"></a>We can convert any web page in Hugo to a leaf bundle by creating a folder at the same location as the markup file and with the same name (without the extension), then moving the markup file in this new folder and renaming it to index.md. We should move all the specific resources to the web page in this folder as well. The web page can use any assets in this folder and its subfolders, including images, PDF files, and metadata (YAML, TOML, or JSON) files.</p>",
-            "title": "4.3.1 Leaf bundles",
-            "link": "https://livebook.manning.com/book/hugo-in-action/chapter-4/22e342b8f5d879b7b1606263b7067480",
-            "bookShortName": "jain",
-            "bookElementShortName": "chapter-4",
-            "meapVersion": 0,
-            "bookElementOrdinal": 10,
-            "contentItemID": "101",
-            "contentHash": "22e342b8f5d879b7b1606263b7067480",
-            "highlights": [
-                {
-                    "color": "yellow",
-                    "text": "We can convert any web page in Hugo to a leaf bundle by creating a folder at the same location as the markup file and with the same name (without the extension), then moving the markup file in this new folder and renaming it to index.md. We should move all the specific resources to the web page in this folder as well. The web page can use any assets in this folder and its subfolders, including images, PDF files, and metadata (YAML, TOML, or JSON) files.",
-                    "offset": 0
-                },
-                {
-                    "color": "yellow",
-                    "text": "We can convert any web page in Hugo to a leaf bundle by creating a folder at the same location as the markup file and with the same name (without the extension), then moving the markup file in this new folder and renaming it to index.md. We should move all the specific resources to the web page in this folder as well. The web page can use any assets in this folder and its subfolders, including images, PDF files, and metadata (YAML, TOML, or JSON) files.",
-                    "offset": 0
-                },
-                {
-                    "color": "yellow",
-                    "text": "We can convert any web page in Hugo to a leaf bundle by creating a folder at the same location as the markup file and with the same name (without the extension), then moving the markup file in this new folder and renaming it to index.md. We should move all the specific resources to the web page in this folder as well. The web page can use any assets in this folder and its subfolders, including images, PDF files, and metadata (YAML, TOML, or JSON) files.",
-                    "offset": 0
-                }
-            ],
-            "html": "<p><a id=\"pgfId-1015614\" href=\"/book/hugo-in-action/chapter-4/\"></a><span class=\"highlighted-text highlight-color-yellow\"><span class=\"highlighted-text highlight-color-yellow\"><span class=\"highlighted-text highlight-color-yellow\">We can convert any web page in Hugo to a leaf bundle by creating a folder at the same location as the markup file and with the same name (without the extension), then moving the markup file in this new folder and renaming it to index.md. We should move all the specific resources to the web page in this folder as well. The web page can use any assets in this folder and its subfolders, including images, PDF files, and metadata (YAML, TOML, or JSON) files.</span></span></span></p>"
+          "color": "yellow",
+          "text": "Leaf bundles are a collection of textual and nontextual elements needed to independently represent the core contents of a single web page. The folder for leaf bundles contains the markup, the metadata, and the resources (images, PDF files, etc.) specific to the page. These may also include page-specific CSS and JS files.",
+          "offset": 0
         },
         {
-            "id": 1719141,
-            "type": "mixed",
-            "dateCreated": "2024-05-21T19:59:05+0000",
-            "lastUpdated": "2024-05-21T19:59:05.000Z",
-            "text": "<p><a id=\"pgfId-1015620\" href=\"/book/hugo-in-action/chapter-4/\"></a>We can move a leaf bundle independently to a different Hugo website, which provides everything needed to render it correctly. A leaf bundle can have multiple markup files, but during the rendering process, it’s treated as a single web page and will not have direct access to any other markup files from the bundle apart from index.md.</p>",
-            "title": "4.3.1 Leaf bundles",
-            "link": "https://livebook.manning.com/book/hugo-in-action/chapter-4/604256e988c601809312aa2bfcf96ea1",
-            "bookShortName": "jain",
-            "bookElementShortName": "chapter-4",
-            "meapVersion": 0,
-            "bookElementOrdinal": 10,
-            "contentItemID": "102",
-            "contentHash": "604256e988c601809312aa2bfcf96ea1",
-            "highlights": [
-                {
-                    "color": "yellow",
-                    "text": "We can move a leaf bundle independently to a different Hugo website, which provides everything needed to render it correctly. A leaf bundle can have multiple markup files, but during the rendering process, it’s treated as a single web page and will not have direct access to any other markup files from the bundle apart from index.md",
-                    "offset": 0
-                },
-                {
-                    "color": "yellow",
-                    "text": "We can move a leaf bundle independently to a different Hugo website, which provides everything needed to render it correctly. A leaf bundle can have multiple markup files, but during the rendering process, it’s treated as a single web page and will not have direct access to any other markup files from the bundle apart from index.md",
-                    "offset": 0
-                },
-                {
-                    "color": "yellow",
-                    "text": "We can move a leaf bundle independently to a different Hugo website, which provides everything needed to render it correctly. A leaf bundle can have multiple markup files, but during the rendering process, it’s treated as a single web page and will not have direct access to any other markup files from the bundle apart from index.md",
-                    "offset": 0
-                }
-            ],
-            "html": "<p><a id=\"pgfId-1015620\" href=\"/book/hugo-in-action/chapter-4/\"></a><span class=\"highlighted-text highlight-color-yellow\"><span class=\"highlighted-text highlight-color-yellow\"><span class=\"highlighted-text highlight-color-yellow\">We can move a leaf bundle independently to a different Hugo website, which provides everything needed to render it correctly. A leaf bundle can have multiple markup files, but during the rendering process, it’s treated as a single web page and will not have direct access to any other markup files from the bundle apart from index.md</span></span></span>.</p>"
-        },
-        {
-            "id": 1719192,
-            "type": "highlight",
-            "dateCreated": "2024-05-21T20:39:00+0000",
-            "lastUpdated": "2024-05-21T20:39:00.000Z",
-            "text": "<p><a id=\"pgfId-1035961\" href=\"/book/hugo-in-action/chapter-4/\"></a>While _index.md and index.md are similar names, they are two very different files: index.md represents the content of a <i>single web page</i>, and _index.md represents a section’s root, which is <a id=\"marker-1035962\" href=\"/book/hugo-in-action/chapter-4/\"></a>a <a id=\"marker-1026814\" href=\"/book/hugo-in-action/chapter-4/\"></a><i>set of web pages</i>. To understand this better, let’s look at an example.</p>",
-            "title": "4.3.1 Leaf bundles",
-            "link": "https://livebook.manning.com/book/hugo-in-action/chapter-4/022333968daed14929890260aca7db01",
-            "bookShortName": "jain",
-            "bookElementShortName": "chapter-4",
-            "meapVersion": 0,
-            "bookElementOrdinal": 10,
-            "contentItemID": "104",
-            "contentHash": "022333968daed14929890260aca7db01",
-            "highlights": [
-                {
-                    "color": "yellow",
-                    "text": "While _index.md and index.md are similar names, they are two very different files: index.md represents the content of a single web page, and _index.md represents a section’s root, which is a set of web pages",
-                    "offset": 0
-                }
-            ],
-            "html": "<p><a id=\"pgfId-1035961\" href=\"/book/hugo-in-action/chapter-4/\"></a><span class=\"highlighted-text highlight-color-yellow\">While _index.md and index.md are similar names, they are two very different files: index.md represents the content of a </span><i><span class=\"highlighted-text highlight-color-yellow\">single web page</span></i><span class=\"highlighted-text highlight-color-yellow\">, and _index.md represents a section’s root, which is </span><a id=\"marker-1035962\" href=\"/book/hugo-in-action/chapter-4/\"></a><span class=\"highlighted-text highlight-color-yellow\">a </span><a id=\"marker-1026814\" href=\"/book/hugo-in-action/chapter-4/\"></a><i><span class=\"highlighted-text highlight-color-yellow\">set of web pages</span></i>. To understand this better, let’s look at an example.</p>"
-        },
-        {
-            "id": 1719202,
-            "type": "highlight",
-            "dateCreated": "2024-05-21T20:45:04+0000",
-            "lastUpdated": "2024-05-21T20:45:04.000Z",
-            "text": "<p><a id=\"pgfId-1015899\" href=\"/book/hugo-in-action/chapter-4/\"></a><a id=\"marker-1031301\" href=\"/book/hugo-in-action/chapter-4/\"></a><a id=\"marker-1031302\" href=\"/book/hugo-in-action/chapter-4/\"></a><a id=\"marker-1031303\" href=\"/book/hugo-in-action/chapter-4/\"></a><i>Branch bundles</i> form a collection of both textual and nontextual resources that represent a website section. Technically, the section folder created for the blog, the <kbd>news</kbd> section for <a id=\"marker-1031305\" href=\"/book/hugo-in-action/chapter-4/\"></a>the Acme Corporation website with its subpages, and an _index file fit the definition of a branch bundle. To meet the definition in spirit, however, all the resources required by the index page should also be present in the folder. An ideal branch bundle contains page bundles for all the pages in the section, the _index file, and the resources referred to in the index page.</p>",
-            "title": "4.3.2 Branch bundles",
-            "link": "https://livebook.manning.com/book/hugo-in-action/chapter-4/3048cc4ebe175ba9c7e5f93af068343d",
-            "bookShortName": "jain",
-            "bookElementShortName": "chapter-4",
-            "meapVersion": 0,
-            "bookElementOrdinal": 10,
-            "contentItemID": "116",
-            "contentHash": "3048cc4ebe175ba9c7e5f93af068343d",
-            "highlights": [
-                {
-                    "color": "yellow",
-                    "text": "Branch bundles form a collection of both textual and nontextual resources that represent a website section. Technically, the section folder created for the blog, the news section for the Acme Corporation website with its subpages, and an _index file fit the definition of a branch bundle. To meet the definition in spirit, however, all the resources required by the index page should also be present in the folder. An ideal branch bundle contains page bundles for all the pages in the section, the _index file, and the resources referred to in the index page",
-                    "offset": 0
-                }
-            ],
-            "html": "<p><a id=\"pgfId-1015899\" href=\"/book/hugo-in-action/chapter-4/\"></a><a id=\"marker-1031301\" href=\"/book/hugo-in-action/chapter-4/\"></a><a id=\"marker-1031302\" href=\"/book/hugo-in-action/chapter-4/\"></a><a id=\"marker-1031303\" href=\"/book/hugo-in-action/chapter-4/\"></a><i><span class=\"highlighted-text highlight-color-yellow\">Branch bundles</span></i><span class=\"highlighted-text highlight-color-yellow\"> form a collection of both textual and nontextual resources that represent a website section. Technically, the section folder created for the blog, the </span><kbd><span class=\"highlighted-text highlight-color-yellow\">news</span></kbd><span class=\"highlighted-text highlight-color-yellow\"> section for </span><a id=\"marker-1031305\" href=\"/book/hugo-in-action/chapter-4/\"></a><span class=\"highlighted-text highlight-color-yellow\">the Acme Corporation website with its subpages, and an _index file fit the definition of a branch bundle. To meet the definition in spirit, however, all the resources required by the index page should also be present in the folder. An ideal branch bundle contains page bundles for all the pages in the section, the _index file, and the resources referred to in the index page</span>.</p>"
+          "color": "yellow",
+          "text": "Leaf bundles are a collection of textual and nontextual elements needed to independently represent the core contents of a single web page. The folder for leaf bundles contains the markup, the metadata, and the resources (images, PDF files, etc.) specific to the page. These may also include page-specific CSS and JS files.",
+          "offset": 0
         }
-    ],
-    "user": "Ken"
+      ],
+      "html": "<p><a id=\"pgfId-1015605\" href=\"/book/hugo-in-action/chapter-4/\"></a><a id=\"marker-1015595\" href=\"/book/hugo-in-action/chapter-4/\"></a><a id=\"marker-1015597\" href=\"/book/hugo-in-action/chapter-4/\"></a><a id=\"marker-1015599\" href=\"/book/hugo-in-action/chapter-4/\"></a><i><span class=\"highlighted-text highlight-color-yellow\"><span class=\"highlighted-text highlight-color-yellow\"><span class=\"highlighted-text highlight-color-yellow\">Leaf bundles</span></span></span></i><span class=\"highlighted-text highlight-color-yellow\"><span class=\"highlighted-text highlight-color-yellow\"><span class=\"highlighted-text highlight-color-yellow\"> are a collection of textual and nontextual elements needed to independently represent the core contents of a single web page. The folder for leaf bundles contains the markup, the metadata, and the resources (images, PDF files, etc.) specific to the page. These may also include page-specific CSS and JS files.</span></span></span></p>"
+    },
+    {
+      "id": 1719141,
+      "type": "mixed",
+      "dateCreated": "2024-05-21T19:59:05+0000",
+      "lastUpdated": "2024-05-21T19:59:05.000Z",
+      "text": "<p><a id=\"pgfId-1015614\" href=\"/book/hugo-in-action/chapter-4/\"></a>We can convert any web page in Hugo to a leaf bundle by creating a folder at the same location as the markup file and with the same name (without the extension), then moving the markup file in this new folder and renaming it to index.md. We should move all the specific resources to the web page in this folder as well. The web page can use any assets in this folder and its subfolders, including images, PDF files, and metadata (YAML, TOML, or JSON) files.</p>",
+      "title": "4.3.1 Leaf bundles",
+      "link": "https://livebook.manning.com/book/hugo-in-action/chapter-4/22e342b8f5d879b7b1606263b7067480",
+      "bookShortName": "jain",
+      "bookElementShortName": "chapter-4",
+      "meapVersion": 0,
+      "bookElementOrdinal": 10,
+      "contentItemID": "101",
+      "contentHash": "22e342b8f5d879b7b1606263b7067480",
+      "highlights": [
+        {
+          "color": "yellow",
+          "text": "We can convert any web page in Hugo to a leaf bundle by creating a folder at the same location as the markup file and with the same name (without the extension), then moving the markup file in this new folder and renaming it to index.md. We should move all the specific resources to the web page in this folder as well. The web page can use any assets in this folder and its subfolders, including images, PDF files, and metadata (YAML, TOML, or JSON) files.",
+          "offset": 0
+        },
+        {
+          "color": "yellow",
+          "text": "We can convert any web page in Hugo to a leaf bundle by creating a folder at the same location as the markup file and with the same name (without the extension), then moving the markup file in this new folder and renaming it to index.md. We should move all the specific resources to the web page in this folder as well. The web page can use any assets in this folder and its subfolders, including images, PDF files, and metadata (YAML, TOML, or JSON) files.",
+          "offset": 0
+        },
+        {
+          "color": "yellow",
+          "text": "We can convert any web page in Hugo to a leaf bundle by creating a folder at the same location as the markup file and with the same name (without the extension), then moving the markup file in this new folder and renaming it to index.md. We should move all the specific resources to the web page in this folder as well. The web page can use any assets in this folder and its subfolders, including images, PDF files, and metadata (YAML, TOML, or JSON) files.",
+          "offset": 0
+        }
+      ],
+      "html": "<p><a id=\"pgfId-1015614\" href=\"/book/hugo-in-action/chapter-4/\"></a><span class=\"highlighted-text highlight-color-yellow\"><span class=\"highlighted-text highlight-color-yellow\"><span class=\"highlighted-text highlight-color-yellow\">We can convert any web page in Hugo to a leaf bundle by creating a folder at the same location as the markup file and with the same name (without the extension), then moving the markup file in this new folder and renaming it to index.md. We should move all the specific resources to the web page in this folder as well. The web page can use any assets in this folder and its subfolders, including images, PDF files, and metadata (YAML, TOML, or JSON) files.</span></span></span></p>"
+    },
+    {
+      "id": 1719141,
+      "type": "mixed",
+      "dateCreated": "2024-05-21T19:59:05+0000",
+      "lastUpdated": "2024-05-21T19:59:05.000Z",
+      "text": "<p><a id=\"pgfId-1015620\" href=\"/book/hugo-in-action/chapter-4/\"></a>We can move a leaf bundle independently to a different Hugo website, which provides everything needed to render it correctly. A leaf bundle can have multiple markup files, but during the rendering process, it’s treated as a single web page and will not have direct access to any other markup files from the bundle apart from index.md.</p>",
+      "title": "4.3.1 Leaf bundles",
+      "link": "https://livebook.manning.com/book/hugo-in-action/chapter-4/604256e988c601809312aa2bfcf96ea1",
+      "bookShortName": "jain",
+      "bookElementShortName": "chapter-4",
+      "meapVersion": 0,
+      "bookElementOrdinal": 10,
+      "contentItemID": "102",
+      "contentHash": "604256e988c601809312aa2bfcf96ea1",
+      "highlights": [
+        {
+          "color": "yellow",
+          "text": "We can move a leaf bundle independently to a different Hugo website, which provides everything needed to render it correctly. A leaf bundle can have multiple markup files, but during the rendering process, it’s treated as a single web page and will not have direct access to any other markup files from the bundle apart from index.md",
+          "offset": 0
+        },
+        {
+          "color": "yellow",
+          "text": "We can move a leaf bundle independently to a different Hugo website, which provides everything needed to render it correctly. A leaf bundle can have multiple markup files, but during the rendering process, it’s treated as a single web page and will not have direct access to any other markup files from the bundle apart from index.md",
+          "offset": 0
+        },
+        {
+          "color": "yellow",
+          "text": "We can move a leaf bundle independently to a different Hugo website, which provides everything needed to render it correctly. A leaf bundle can have multiple markup files, but during the rendering process, it’s treated as a single web page and will not have direct access to any other markup files from the bundle apart from index.md",
+          "offset": 0
+        }
+      ],
+      "html": "<p><a id=\"pgfId-1015620\" href=\"/book/hugo-in-action/chapter-4/\"></a><span class=\"highlighted-text highlight-color-yellow\"><span class=\"highlighted-text highlight-color-yellow\"><span class=\"highlighted-text highlight-color-yellow\">We can move a leaf bundle independently to a different Hugo website, which provides everything needed to render it correctly. A leaf bundle can have multiple markup files, but during the rendering process, it’s treated as a single web page and will not have direct access to any other markup files from the bundle apart from index.md</span></span></span>.</p>"
+    },
+    {
+      "id": 1719192,
+      "type": "highlight",
+      "dateCreated": "2024-05-21T20:39:00+0000",
+      "lastUpdated": "2024-05-21T20:39:00.000Z",
+      "text": "<p><a id=\"pgfId-1035961\" href=\"/book/hugo-in-action/chapter-4/\"></a>While _index.md and index.md are similar names, they are two very different files: index.md represents the content of a <i>single web page</i>, and _index.md represents a section’s root, which is <a id=\"marker-1035962\" href=\"/book/hugo-in-action/chapter-4/\"></a>a <a id=\"marker-1026814\" href=\"/book/hugo-in-action/chapter-4/\"></a><i>set of web pages</i>. To understand this better, let’s look at an example.</p>",
+      "title": "4.3.1 Leaf bundles",
+      "link": "https://livebook.manning.com/book/hugo-in-action/chapter-4/022333968daed14929890260aca7db01",
+      "bookShortName": "jain",
+      "bookElementShortName": "chapter-4",
+      "meapVersion": 0,
+      "bookElementOrdinal": 10,
+      "contentItemID": "104",
+      "contentHash": "022333968daed14929890260aca7db01",
+      "highlights": [
+        {
+          "color": "yellow",
+          "text": "While _index.md and index.md are similar names, they are two very different files: index.md represents the content of a single web page, and _index.md represents a section’s root, which is a set of web pages",
+          "offset": 0
+        }
+      ],
+      "html": "<p><a id=\"pgfId-1035961\" href=\"/book/hugo-in-action/chapter-4/\"></a><span class=\"highlighted-text highlight-color-yellow\">While _index.md and index.md are similar names, they are two very different files: index.md represents the content of a </span><i><span class=\"highlighted-text highlight-color-yellow\">single web page</span></i><span class=\"highlighted-text highlight-color-yellow\">, and _index.md represents a section’s root, which is </span><a id=\"marker-1035962\" href=\"/book/hugo-in-action/chapter-4/\"></a><span class=\"highlighted-text highlight-color-yellow\">a </span><a id=\"marker-1026814\" href=\"/book/hugo-in-action/chapter-4/\"></a><i><span class=\"highlighted-text highlight-color-yellow\">set of web pages</span></i>. To understand this better, let’s look at an example.</p>"
+    },
+    {
+      "id": 1719202,
+      "type": "highlight",
+      "dateCreated": "2024-05-21T20:45:04+0000",
+      "lastUpdated": "2024-05-21T20:45:04.000Z",
+      "text": "<p><a id=\"pgfId-1015899\" href=\"/book/hugo-in-action/chapter-4/\"></a><a id=\"marker-1031301\" href=\"/book/hugo-in-action/chapter-4/\"></a><a id=\"marker-1031302\" href=\"/book/hugo-in-action/chapter-4/\"></a><a id=\"marker-1031303\" href=\"/book/hugo-in-action/chapter-4/\"></a><i>Branch bundles</i> form a collection of both textual and nontextual resources that represent a website section. Technically, the section folder created for the blog, the <kbd>news</kbd> section for <a id=\"marker-1031305\" href=\"/book/hugo-in-action/chapter-4/\"></a>the Acme Corporation website with its subpages, and an _index file fit the definition of a branch bundle. To meet the definition in spirit, however, all the resources required by the index page should also be present in the folder. An ideal branch bundle contains page bundles for all the pages in the section, the _index file, and the resources referred to in the index page.</p>",
+      "title": "4.3.2 Branch bundles",
+      "link": "https://livebook.manning.com/book/hugo-in-action/chapter-4/3048cc4ebe175ba9c7e5f93af068343d",
+      "bookShortName": "jain",
+      "bookElementShortName": "chapter-4",
+      "meapVersion": 0,
+      "bookElementOrdinal": 10,
+      "contentItemID": "116",
+      "contentHash": "3048cc4ebe175ba9c7e5f93af068343d",
+      "highlights": [
+        {
+          "color": "yellow",
+          "text": "Branch bundles form a collection of both textual and nontextual resources that represent a website section. Technically, the section folder created for the blog, the news section for the Acme Corporation website with its subpages, and an _index file fit the definition of a branch bundle. To meet the definition in spirit, however, all the resources required by the index page should also be present in the folder. An ideal branch bundle contains page bundles for all the pages in the section, the _index file, and the resources referred to in the index page",
+          "offset": 0
+        }
+      ],
+      "html": "<p><a id=\"pgfId-1015899\" href=\"/book/hugo-in-action/chapter-4/\"></a><a id=\"marker-1031301\" href=\"/book/hugo-in-action/chapter-4/\"></a><a id=\"marker-1031302\" href=\"/book/hugo-in-action/chapter-4/\"></a><a id=\"marker-1031303\" href=\"/book/hugo-in-action/chapter-4/\"></a><i><span class=\"highlighted-text highlight-color-yellow\">Branch bundles</span></i><span class=\"highlighted-text highlight-color-yellow\"> form a collection of both textual and nontextual resources that represent a website section. Technically, the section folder created for the blog, the </span><kbd><span class=\"highlighted-text highlight-color-yellow\">news</span></kbd><span class=\"highlighted-text highlight-color-yellow\"> section for </span><a id=\"marker-1031305\" href=\"/book/hugo-in-action/chapter-4/\"></a><span class=\"highlighted-text highlight-color-yellow\">the Acme Corporation website with its subpages, and an _index file fit the definition of a branch bundle. To meet the definition in spirit, however, all the resources required by the index page should also be present in the folder. An ideal branch bundle contains page bundles for all the pages in the section, the _index file, and the resources referred to in the index page</span>.</p>"
+    }
+  ],
+  "user": "Ken"
 }
