@@ -1,0 +1,139 @@
+{
+  "id": "product-3633",
+  "success": true,
+  "dateCreated": "2024-05-22T11:28:06+0000",
+  "lastUpdated": "2024-07-27T10:11:39.000Z",
+  "product": {
+    "id": 3633,
+    "title": "Writing for Developers: Blogs that get read",
+    "authors": "Piotr Sarna Cynthia Dunlop",
+    "coverPath": "https://drek4537l1klr.cloudfront.net/dunlop/Figures/cover.jpg",
+    "link": "https://livebook.manning.com/book/writing-for-developers"
+  },
+  "scrapbookItems": [
+    {
+      "id": 145207,
+      "type": "mixed",
+      "dateCreated": "2024-05-22T11:28:06+0000",
+      "lastUpdated": "2024-05-22T11:28:06.000Z",
+      "text": "<strong>Proud of</strong>: What accomplishments are you eager to show off to your engineering peers? What’s really going to impress your users or fellow contributors?",
+      "title": "2 What to write",
+      "link": "https://livebook.manning.com/book/writing-for-developers/chapter-2/v-1/e9f336318bf76adb6115a2872bbc2981",
+      "bookmarkedText": "Proud of: What accomplishments are you eager to show off to your engineering pee...",
+      "bookShortName": "dunlop",
+      "bookElementShortName": "chapter-2",
+      "meapVersion": 1,
+      "bookElementOrdinal": 2,
+      "contentItemID": "15",
+      "contentHash": "e9f336318bf76adb6115a2872bbc2981",
+      "highlights": [
+        {
+          "color": "yellow",
+          "text": "Proud of: What accomplishments are you eager to show off to your engineering peers? What’s really going to impress your users or fellow contributors?",
+          "offset": 0
+        },
+        {
+          "color": "yellow",
+          "text": "Proud of: What accomplishments are you eager to show off to your engineering peers? What’s really going to impress your users or fellow contributors?",
+          "offset": 0
+        },
+        {
+          "color": "yellow",
+          "text": "Proud of: What accomplishments are you eager to show off to your engineering peers? What’s really going to impress your users or fellow contributors?",
+          "offset": 0
+        }
+      ],
+      "html": "<strong><span class=\"highlighted-text highlight-color-yellow\"><span class=\"highlighted-text highlight-color-yellow\"><span class=\"highlighted-text highlight-color-yellow\">Proud of</span></span></span></strong><span class=\"highlighted-text highlight-color-yellow\"><span class=\"highlighted-text highlight-color-yellow\"><span class=\"highlighted-text highlight-color-yellow\">: What accomplishments are you eager to show off to your engineering peers? What’s really going to impress your users or fellow contributors?</span></span></span>"
+    },
+    {
+      "id": 1719785,
+      "type": "mixed",
+      "dateCreated": "2024-05-22T11:28:12+0000",
+      "lastUpdated": "2024-05-22T11:28:12.000Z",
+      "text": "<strong>Pained by:</strong> What challenges have been causing constant headaches and blocking you from forward progress? What broader industry pain points are you committed to alleviating?",
+      "title": "2 What to write",
+      "link": "https://livebook.manning.com/book/writing-for-developers/chapter-2/v-1/9f1107fba03af27b2b4a31d500c00465",
+      "bookShortName": "dunlop",
+      "bookElementShortName": "chapter-2",
+      "meapVersion": 1,
+      "bookElementOrdinal": 2,
+      "contentItemID": "16",
+      "contentHash": "9f1107fba03af27b2b4a31d500c00465",
+      "highlights": [
+        {
+          "color": "yellow",
+          "text": "Pained by: What challenges have been causing constant headaches and blocking you from forward progress? What broader industry pain points are you committed to alleviating?",
+          "offset": 0
+        },
+        {
+          "color": "yellow",
+          "text": "Pained by: What challenges have been causing constant headaches and blocking you from forward progress? What broader industry pain points are you committed to alleviating?",
+          "offset": 0
+        },
+        {
+          "color": "yellow",
+          "text": "Pained by: What challenges have been causing constant headaches and blocking you from forward progress? What broader industry pain points are you committed to alleviating?",
+          "offset": 0
+        }
+      ],
+      "html": "<strong><span class=\"highlighted-text highlight-color-yellow\"><span class=\"highlighted-text highlight-color-yellow\"><span class=\"highlighted-text highlight-color-yellow\">Pained by:</span></span></span></strong><span class=\"highlighted-text highlight-color-yellow\"><span class=\"highlighted-text highlight-color-yellow\"><span class=\"highlighted-text highlight-color-yellow\"> What challenges have been causing constant headaches and blocking you from forward progress? What broader industry pain points are you committed to alleviating?</span></span></span>"
+    },
+    {
+      "id": 1719785,
+      "type": "mixed",
+      "dateCreated": "2024-05-22T11:28:12+0000",
+      "lastUpdated": "2024-05-22T11:28:12.000Z",
+      "text": "<strong>Passionate about:</strong> What else gets your blood racing? Focus on topics that you’ve earned the right to discuss (thanks to your experiences or special perspective).",
+      "title": "2 What to write",
+      "link": "https://livebook.manning.com/book/writing-for-developers/chapter-2/v-1/18e214ef4ccf5d2c8dea5b2025d47f23",
+      "bookShortName": "dunlop",
+      "bookElementShortName": "chapter-2",
+      "meapVersion": 1,
+      "bookElementOrdinal": 2,
+      "contentItemID": "17",
+      "contentHash": "18e214ef4ccf5d2c8dea5b2025d47f23",
+      "highlights": [
+        {
+          "color": "yellow",
+          "text": "Passionate about: What else gets your blood racing? Focus on topics that you’ve earned the right to discuss (thanks to your experiences or special perspective).",
+          "offset": 0
+        },
+        {
+          "color": "yellow",
+          "text": "Passionate about: What else gets your blood racing? Focus on topics that you’ve earned the right to discuss (thanks to your experiences or special perspective).",
+          "offset": 0
+        },
+        {
+          "color": "yellow",
+          "text": "Passionate about: What else gets your blood racing? Focus on topics that you’ve earned the right to discuss (thanks to your experiences or special perspective).",
+          "offset": 0
+        }
+      ],
+      "html": "<strong><span class=\"highlighted-text highlight-color-yellow\"><span class=\"highlighted-text highlight-color-yellow\"><span class=\"highlighted-text highlight-color-yellow\">Passionate about:</span></span></span></strong><span class=\"highlighted-text highlight-color-yellow\"><span class=\"highlighted-text highlight-color-yellow\"><span class=\"highlighted-text highlight-color-yellow\"> What else gets your blood racing? Focus on topics that you’ve earned the right to discuss (thanks to your experiences or special perspective).</span></span></span>"
+    },
+    {
+      "id": 1799225,
+      "type": "highlight",
+      "dateCreated": "2024-07-27T10:11:39+0000",
+      "lastUpdated": "2024-07-27T10:11:39.000Z",
+      "text": "<p>It’s important to keep tabs on what’s new and what people are already talking about in your specific area of interest. This is how you can spot emerging trends and be among the first to start thinking and writing about them. And by keeping your finger on the pulse of a discussion, you can make sure that your take on it actually advances the conversation in some interesting way. Addressing the existing dialogue head-on will win you more friends and upvotes than unintentionally repeating it out of ignorance.</p>",
+      "title": "2.3 Increasing your trigger exposure",
+      "link": "https://livebook.manning.com/book/writing-for-developers/chapter-2/v-6/1c7c01a66d077672c0788780107aadc6",
+      "bookShortName": "dunlop",
+      "bookElementShortName": "chapter-2",
+      "meapVersion": 6,
+      "bookElementOrdinal": 2,
+      "contentItemID": "145",
+      "contentHash": "1c7c01a66d077672c0788780107aadc6",
+      "highlights": [
+        {
+          "color": "yellow",
+          "text": "It’s important to keep tabs on what’s new and what people are already talking about in your specific area of interest. This is how you can spot emerging trends and be among the first to start thinking and writing about them. And by keeping your finger on the pulse of a discussion, you can make sure that your take on it actually advances the conversation in some interesting way. Addressing the existing dialogue head-on will win you more friends and upvotes than unintentionally repeating it out of ignorance.",
+          "offset": 0
+        }
+      ],
+      "html": "<p><span class=\"highlighted-text highlight-color-yellow\">It’s important to keep tabs on what’s new and what people are already talking about in your specific area of interest. This is how you can spot emerging trends and be among the first to start thinking and writing about them. And by keeping your finger on the pulse of a discussion, you can make sure that your take on it actually advances the conversation in some interesting way. Addressing the existing dialogue head-on will win you more friends and upvotes than unintentionally repeating it out of ignorance.</span></p>"
+    }
+  ],
+  "user": "Ken"
+}
