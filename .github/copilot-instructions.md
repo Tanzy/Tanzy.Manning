@@ -1,0 +1,66 @@
+
+- @python Rule - Use Python Best Practices: When generating code for Python, ensure adherence to the following:
+  - Follow PEP 8 standards for code style and formatting.
+  - Use type hints to improve code readability and maintainability.
+  - Manage dependencies using a `requirements.txt` file or `pyproject.toml`.
+  - Use virtual environments to isolate project dependencies.
+  - Include proper error handling with try-except blocks and meaningful error messages.
+  - Implement logging using the `logging` module instead of print statements.
+  - Write unit tests using `unittest` or `pytest` to ensure code reliability.
+  - Document code with clear and concise docstrings following the Google or NumPy style.
+  - Avoid hardcoding configuration values; use environment variables or configuration files.
+
+- @python_project Rule - When structuring a Python project, follow these best practices:
+  - Use a clear and consistent directory structure:
+    - Place source code in a dedicated directory (e.g., `src/` or a directory named after the project).
+    - Include a `tests/` directory for unit and integration tests.
+    - Add a `docs/` directory for documentation.
+    - Use a `scripts/` directory for utility scripts, if needed.
+  - Include a `README.md` file to describe the project and its usage.
+  - Use a `setup.py` or `pyproject.toml` file for packaging and dependency management.
+  - Add a `.gitignore` file to exclude unnecessary files from version control.
+  - Use a `requirements.txt` file to list dependencies or manage them in `pyproject.toml`.
+  - Include a `LICENSE` file to specify the project's license.
+  - Use environment variables for configuration and include a `.env.example` file for reference.
+  - Write modular and reusable code by organizing it into packages and modules.
+  - Follow naming conventions for files and directories (e.g., lowercase with underscores for Python files).
+  - Add type annotations and docstrings to improve code readability and maintainability.
+  - Use `__init__.py` files to define packages and control imports.
+
+- @flask Rule - When creating a Flask app, follow these best practices:
+  - Use a virtual environment to manage dependencies.
+  - Structure the app using the Flask application factory pattern.
+  - Store configuration settings in environment variables or a `.env` file.
+  - Use `flask run` for development and a WSGI server like Gunicorn for production.
+  - Include proper error handling with custom error pages.
+  - Implement logging for debugging and monitoring.
+  - Secure the app by validating inputs and protecting against common vulnerabilities (e.g., CSRF, XSS).
+  - Write unit tests for routes and functionality.
+  - Use Blueprints to organize routes and functionality into modular components.
+  - Integrate a database using SQLAlchemy or another ORM, and include migrations with Flask-Migrate.
+  - Document the API using tools like Flask-RESTful or Swagger.
+  - Use HTTPS in production to secure data in transit.
+  - Regularly update dependencies to patch vulnerabilities.
+  - Use Flask extensions like `Flask-Talisman` for security headers.
+  - Implement caching mechanisms like Flask-Caching or Redis for frequently accessed data.
+  - Optimize database queries to reduce latency.
+  - Design the app to be stateless where possible, making it easier to scale horizontally.
+  - Use a load balancer for distributing traffic in production.
+  - Integrate tools like Prometheus or New Relic for performance monitoring.
+  - Use structured logging for better log analysis.
+  - Follow RESTful principles for API design.
+  - Use API versioning to manage breaking changes.
+  - Include integration tests in addition to unit tests.
+  - Use tools like `tox` for testing across multiple environments.
+
+- @mysql Rule - When working with MySQL databases, follow these best practices:
+  - Use parameterized queries or an ORM like SQLAlchemy to prevent SQL injection.
+  - Normalize database schema to reduce redundancy and improve data integrity.
+  - Use appropriate data types for columns to optimize storage and performance.
+  - Index frequently queried columns to improve query performance.
+  - Regularly back up the database and test the restoration process.
+  - Use connection pooling to manage database connections efficiently.
+  - Secure the database by restricting user privileges and using strong passwords.
+  - Monitor database performance and optimize slow queries.
+  - Use migrations to manage schema changes in a controlled manner.
+  - Store sensitive data, such as passwords, using secure hashing algorithms.
