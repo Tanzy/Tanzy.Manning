@@ -4,6 +4,6 @@ GitPython==3.1.41
 idna==3.10
 readwise==1.1.0
 requests==2.32.3
-setuptools==70.0.0
+setuptools==78.1.1
 smmap==5.0.1
 urllib3==2.2.3
