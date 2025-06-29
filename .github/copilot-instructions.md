@@ -15,6 +15,34 @@ These instructions define how GitHub Copilot should assist with this project. Th
 - Avoid hardcoding values; use constants or configuration files instead.
 - Write unit tests for new features and bug fixes.
 - Use version control effectively, with branches for features and fixes.
+- Code should be self-documenting; avoid unnecessary comments.
+- Keep functions and methods short and focused on a single task.
+- Use type hints for function signatures to improve code clarity and type checking.
+- Avoid using global variables; prefer passing parameters to functions.
+- Use list comprehensions and generator expressions for concise and efficient code.
+- Use context managers for resource management (e.g., file handling, database connections).
+- Avoid deep nesting of code; refactor into smaller functions if necessary.
+- Use logging instead of print statements for debugging and information output.
+- Use f-strings for string formatting in Python 3.6 and above.
+
+## Project Structure
+- Organize code into modules and packages based on functionality.
+- Use a consistent naming convention for files and directories (e.g., lowercase with underscores).
+- Place configuration files (e.g., settings, environment variables) in a dedicated directory (e.g., `config/`).
+- Use a `src/` directory for the main application code.
+- Place tests in a separate `tests/` directory, mirroring the structure of the main application.
+- Use a `docs/` directory for project documentation.
+- Include a `requirements.txt` or `Pipfile` for Python dependencies.
+- Use a `Makefile` or `setup.py` for build and deployment tasks.
+- Include a `.gitignore` file to exclude unnecessary files from version control.
+- Structure the project to support modular development, allowing for easy addition of new features or components.
+- Backend code should be separated from frontend code, with clear interfaces between them.
+- Use a `scripts/` directory for utility scripts and automation tasks.
+- Use a `migrations/` directory for database migration scripts.
+- Include a `tests/` directory for unit and integration tests, with a clear naming convention for test files (e.g., `test_*.py`).
+- Use a `static/` directory for static files (e.g., CSS, JavaScript, images) in web applications.
+- Use a `templates/` directory for HTML templates in web applications.
+
 
 ## Language and Frameworks
 - Use Python 3.x for all new code.
